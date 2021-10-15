@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Victoriakinyemi
-- 👀 I’m interested a Geospatial Analyst/Developer.
+- 👀 I’m a Geospatial Analyst/Developer.
 
 <!---
 Victoriakinyemi/Victoriakinyemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
